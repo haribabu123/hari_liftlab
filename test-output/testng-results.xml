@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="56" passed="0" failed="0" skipped="56">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-26T19:34:45 IST" name="Default suite" finished-at="2024-01-26T19:34:46 IST" duration-ms="1009">
+    <groups>
+    </groups>
+    <test started-at="2024-01-26T19:34:45 IST" name="Default test" finished-at="2024-01-26T19:34:46 IST" duration-ms="1009">
+      <class name="test.java.platform.api.TenantOnboarding">
+        <test-method is-config="true" signature="extractEnviromentURL(org.testng.ITestContext)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="extractEnviromentURL" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractEnviromentURL -->
+        <test-method signature="createUserinTenantOnboarding()[pri:15, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="createUserinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="createAdminAppinTenantOnboarding()[pri:16, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="createAdminAppinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAdminAppinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="genereateJWTtokeninTenantOnboarding()[pri:17, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="genereateJWTtokeninTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokeninTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="cloningSmapleBotinTenantOnboarding()[pri:18, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="cloningSmapleBotinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloningSmapleBotinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="clonedBotSetupinTenantOnboarding()[pri:19, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="clonedBotSetupinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clonedBotSetupinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="createbuilderAppnforUBinTenantOnboarding()[pri:20, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="createbuilderAppnforUBinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="1" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbuilderAppnforUBinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="enableRTMforUBbuilderAPPinTenantOnboarding()[pri:21, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="enableRTMforUBbuilderAPPinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableRTMforUBbuilderAPPinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="genereateJWTtokenUB_BuilderAppinTenantOnboarding()[pri:22, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="genereateJWTtokenUB_BuilderAppinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokenUB_BuilderAppinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="uploadFileinTenantOnboarding()[pri:23, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="uploadFileinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="1" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFileinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="importBotinTenantOnboarding()[pri:24, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="importBotinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- importBotinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="importBotStatusinTenantOnboarding()[pri:25, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="importBotStatusinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="1" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- importBotStatusinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="createbuilderAppNONAdmininTenantOnboarding()[pri:26, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="createbuilderAppNONAdmininTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbuilderAppNONAdmininTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="enableRTMinTenantOnboarding()[pri:27, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="enableRTMinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableRTMinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="genereateJWTtokenbuilderappinTenantOnboarding()[pri:28, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="genereateJWTtokenbuilderappinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokenbuilderappinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="publishbotStandardBotinTenantOnboarding()[pri:29, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="publishbotStandardBotinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishbotStandardBotinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method signature="linkChildBotinTenantOnboarding()[pri:30, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="linkChildBotinTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkChildBotinTenantOnboarding -->
+        <test-method is-config="true" signature="afterMethodTenantOnboarding(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:45 IST" name="afterMethodTenantOnboarding" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTenantOnboarding -->
+        <test-method is-config="true" signature="GeerateHTMLReport()[pri:0, instance:test.java.platform.api.TenantOnboarding@78fa769e]" started-at="2024-01-26T19:34:46 IST" name="GeerateHTMLReport" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeerateHTMLReport -->
+      </class> <!-- test.java.platform.api.TenantOnboarding -->
+      <class name="TestCases.TC3">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:TestCases.TC3@4149c063]" started-at="2024-01-26T19:34:45 IST" name="startTest" finished-at="2024-01-26T19:34:45 IST" duration-ms="40" status="FAIL">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="getUpdatedPetId()[pri:0, instance:TestCases.TC3@4149c063]" started-at="2024-01-26T19:34:45 IST" name="getUpdatedPetId" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUpdatedPetId -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestCases.TC3@4149c063]" started-at="2024-01-26T19:34:46 IST" name="endTest" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- TestCases.TC3 -->
+      <class name="test.java.platform.api.KnowledgeCollection">
+        <test-method signature="createUserinKnowledgeCollection()[pri:31, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="createUserinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="createAdminAppinKnowledgeCollection()[pri:32, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="createAdminAppinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAdminAppinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="genereateJWTtokeninKnowledgeCollection()[pri:33, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="genereateJWTtokeninKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokeninKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="cloningSmapleBotinKnowledgeCollection()[pri:34, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="cloningSmapleBotinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloningSmapleBotinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="clonedBotSetupinKnowledgeCollection()[pri:35, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="clonedBotSetupinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clonedBotSetupinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="createbuilderAppnonAdmininKnowledgeCollection()[pri:36, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="createbuilderAppnonAdmininKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="1" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbuilderAppnonAdmininKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="enableRTMinKnowledgeCollection()[pri:37, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="enableRTMinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableRTMinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="getRoleinKnowledgeCollection()[pri:38, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="getRoleinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoleinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="AddingDeveloperasOwnerinKnowledgeCollection()[pri:39, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="AddingDeveloperasOwnerinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingDeveloperasOwnerinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="ExtractFAQsinKnowledgeCollection()[pri:40, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="ExtractFAQsinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtractFAQsinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="GetQsofExtractinKnowledgeCollection()[pri:41, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="GetQsofExtractinKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetQsofExtractinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="GetKTofTaskofCollectioninKnowledgeCollection()[pri:42, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="GetKTofTaskofCollectioninKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetKTofTaskofCollectioninKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="AddQstoCollectioninKnowledgeCollection()[pri:43, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:45 IST" name="AddQstoCollectioninKnowledgeCollection" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddQstoCollectioninKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="publishbotinKnowledgeCollection()[pri:44, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="publishbotinKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishbotinKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="GetFAQsCollectioninKnowledgeCollection()[pri:45, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="GetFAQsCollectioninKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetFAQsCollectioninKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+        <test-method signature="GetExtractsofCollectioninKnowledgeCollection()[pri:46, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="GetExtractsofCollectioninKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetExtractsofCollectioninKnowledgeCollection -->
+        <test-method is-config="true" signature="afterMethodKnowledgeCollection(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.KnowledgeCollection@38af9828]" started-at="2024-01-26T19:34:46 IST" name="afterMethodKnowledgeCollection" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodKnowledgeCollection -->
+      </class> <!-- test.java.platform.api.KnowledgeCollection -->
+      <class name="TestCases.TC2">
+        <test-method is-config="true" signature="updatebody()[pri:0, instance:TestCases.TC2@76b07f29]" started-at="2024-01-26T19:34:45 IST" name="updatebody" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatebody -->
+        <test-method signature="putRequest()[pri:0, instance:TestCases.TC2@76b07f29]" started-at="2024-01-26T19:34:45 IST" name="putRequest" finished-at="2024-01-26T19:34:45 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+      </class> <!-- TestCases.TC2 -->
+      <class name="test.java.platform.api.SearchSkill">
+        <test-method signature="createUserinSearchSkill()[pri:49, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="createUserinSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserinSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+        <test-method signature="createAdminAppinSearchSkill()[pri:50, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="createAdminAppinSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAdminAppinSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+        <test-method signature="genereateJWTtokeninSearchSkill()[pri:51, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="genereateJWTtokeninSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokeninSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+        <test-method signature="cloningSmapleBotinSearchSkill()[pri:52, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="cloningSmapleBotinSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloningSmapleBotinSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+        <test-method signature="clonedBotSetupinSearchSkill()[pri:53, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="clonedBotSetupinSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clonedBotSetupinSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+        <test-method signature="configuringENVvarinSearchSkill()[pri:54, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="configuringENVvarinSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuringENVvarinSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+        <test-method signature="createbuilderAppnonAdmininSearchSkill()[pri:55, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="createbuilderAppnonAdmininSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbuilderAppnonAdmininSearchSkill -->
+        <test-method is-config="true" signature="afterMethodSearchSkill(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.SearchSkill@53f3bdbd]" started-at="2024-01-26T19:34:46 IST" name="afterMethodSearchSkill" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodSearchSkill -->
+      </class> <!-- test.java.platform.api.SearchSkill -->
+      <class name="TestCases.TC1">
+        <test-method signature="getRequest()[pri:0, instance:TestCases.TC1@376a0d86]" started-at="2024-01-26T19:34:46 IST" name="getRequest" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+      </class> <!-- TestCases.TC1 -->
+      <class name="test.java.platform.api.EnviromentSetup">
+        <test-method signature="createUserinEnvironmentSetup()[pri:1, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="createUserinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="createAdminAppinEnvironmentSetup()[pri:2, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="createAdminAppinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAdminAppinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="genereateJWTtokeninEnvironmentSetup()[pri:3, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="genereateJWTtokeninEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokeninEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="uploadFileinEnvironmentSetup()[pri:5, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="uploadFileinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFileinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="importBotinEnvironmentSetup()[pri:6, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="importBotinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- importBotinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="importBotStatusinEnvironmentSetup()[pri:7, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="importBotStatusinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- importBotStatusinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="configuringENVvarinEnvironmentSetup()[pri:8, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="configuringENVvarinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuringENVvarinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="createbuilderAppnonAdmininEnvironmentSetup()[pri:9, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="createbuilderAppnonAdmininEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbuilderAppnonAdmininEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="enableRTMinEnvironmentSetup()[pri:10, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="enableRTMinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableRTMinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="genereateJWTtokenforNonAmdinAppinEnvironmentSetup()[pri:11, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="genereateJWTtokenforNonAmdinAppinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genereateJWTtokenforNonAmdinAppinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="publishbotinEnvironmentSetup()[pri:12, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="publishbotinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishbotinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="getRoleinEnvironmentSetup()[pri:13, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="getRoleinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoleinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+        <test-method signature="AddingDeveloperasOwnerinEnvironmentSetup()[pri:14, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="AddingDeveloperasOwnerinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingDeveloperasOwnerinEnvironmentSetup -->
+        <test-method is-config="true" signature="afterMethodinEnvironmentSetup(org.testng.ITestResult)[pri:0, instance:test.java.platform.api.EnviromentSetup@62656be4]" started-at="2024-01-26T19:34:46 IST" name="afterMethodinEnvironmentSetup" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodinEnvironmentSetup -->
+      </class> <!-- test.java.platform.api.EnviromentSetup -->
+      <class name="test.java.platform.api.testt">
+        <test-method signature="sampletest()[pri:0, instance:test.java.platform.api.testt@34129c78]" started-at="2024-01-26T19:34:46 IST" name="sampletest" finished-at="2024-01-26T19:34:46 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Error">
+            <message>
+              <![CDATA[Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Error: Unresolved compilation problems: 
+The constructor ExtentReports(String, boolean) is undefined
+The method startTest(String) is undefined for the type ExtentReports
+reporter cannot be resolved
+extentReports cannot be resolved
+extentReports cannot be resolved
+extent cannot be resolved
+extentReports cannot be resolved to a variable
+
+at Utilites.baseTest.startTest(baseTest.java:29)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:393)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:326)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:382)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Error -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+      </class> <!-- test.java.platform.api.testt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

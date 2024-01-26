@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestCases.TC2">
+        <methods>
+          <include name="startTest"/>
+          <include name="endTest"/>
+          <include name="updatebody"/>
+          <include name="putRequest"/>
+        </methods>
+      </class> <!-- TestCases.TC2 -->
+      <class name="TestCases.TC1">
+        <methods>
+          <include name="getRequest"/>
+          <include name="startTest"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- TestCases.TC1 -->
+      <class name="test.java.platform.api.TenantOnboarding">
+        <methods>
+          <include name="createUserinTenantOnboarding"/>
+          <include name="clonedBotSetupinTenantOnboarding"/>
+          <include name="extractEnviromentURL"/>
+          <include name="uploadFileinTenantOnboarding"/>
+          <include name="linkChildBotinTenantOnboarding"/>
+          <include name="createAdminAppinTenantOnboarding"/>
+          <include name="GeerateHTMLReport"/>
+          <include name="genereateJWTtokenbuilderappinTenantOnboarding"/>
+          <include name="afterMethodTenantOnboarding"/>
+          <include name="publishbotStandardBotinTenantOnboarding"/>
+          <include name="createbuilderAppnforUBinTenantOnboarding"/>
+          <include name="genereateJWTtokeninTenantOnboarding"/>
+          <include name="createbuilderAppNONAdmininTenantOnboarding"/>
+          <include name="cloningSmapleBotinTenantOnboarding"/>
+          <include name="importBotinTenantOnboarding"/>
+          <include name="genereateJWTtokenUB_BuilderAppinTenantOnboarding"/>
+          <include name="enableRTMinTenantOnboarding"/>
+          <include name="importBotStatusinTenantOnboarding"/>
+          <include name="enableRTMforUBbuilderAPPinTenantOnboarding"/>
+        </methods>
+      </class> <!-- test.java.platform.api.TenantOnboarding -->
+      <class name="test.java.platform.api.KnowledgeCollection">
+        <methods>
+          <include name="extractEnviromentURL"/>
+          <include name="GetExtractsofCollectioninKnowledgeCollection"/>
+          <include name="cloningSmapleBotinKnowledgeCollection"/>
+          <include name="GetKTofTaskofCollectioninKnowledgeCollection"/>
+          <include name="clonedBotSetupinKnowledgeCollection"/>
+          <include name="GeerateHTMLReport"/>
+          <include name="GetFAQsCollectioninKnowledgeCollection"/>
+          <include name="AddingDeveloperasOwnerinKnowledgeCollection"/>
+          <include name="createAdminAppinKnowledgeCollection"/>
+          <include name="genereateJWTtokeninKnowledgeCollection"/>
+          <include name="publishbotinKnowledgeCollection"/>
+          <include name="enableRTMinKnowledgeCollection"/>
+          <include name="AddQstoCollectioninKnowledgeCollection"/>
+          <include name="getRoleinKnowledgeCollection"/>
+          <include name="afterMethodKnowledgeCollection"/>
+          <include name="ExtractFAQsinKnowledgeCollection"/>
+          <include name="createUserinKnowledgeCollection"/>
+          <include name="GetQsofExtractinKnowledgeCollection"/>
+          <include name="createbuilderAppnonAdmininKnowledgeCollection"/>
+        </methods>
+      </class> <!-- test.java.platform.api.KnowledgeCollection -->
+      <class name="test.java.platform.api.testt">
+        <methods>
+          <include name="sampletest"/>
+        </methods>
+      </class> <!-- test.java.platform.api.testt -->
+      <class name="TestCases.TC3">
+        <methods>
+          <include name="startTest"/>
+          <include name="endTest"/>
+          <include name="getUpdatedPetId"/>
+        </methods>
+      </class> <!-- TestCases.TC3 -->
+      <class name="test.java.platform.api.SearchSkill">
+        <methods>
+          <include name="afterMethodSearchSkill"/>
+          <include name="extractEnviromentURL"/>
+          <include name="createbuilderAppnonAdmininSearchSkill"/>
+          <include name="cloningSmapleBotinSearchSkill"/>
+          <include name="configuringENVvarinSearchSkill"/>
+          <include name="clonedBotSetupinSearchSkill"/>
+          <include name="GeerateHTMLReport"/>
+          <include name="genereateJWTtokeninSearchSkill"/>
+          <include name="createUserinSearchSkill"/>
+          <include name="createAdminAppinSearchSkill"/>
+        </methods>
+      </class> <!-- test.java.platform.api.SearchSkill -->
+      <class name="test.java.platform.api.EnviromentSetup">
+        <methods>
+          <include name="publishbotinEnvironmentSetup"/>
+          <include name="extractEnviromentURL"/>
+          <include name="createbuilderAppnonAdmininEnvironmentSetup"/>
+          <include name="genereateJWTtokeninEnvironmentSetup"/>
+          <include name="GeerateHTMLReport"/>
+          <include name="getRoleinEnvironmentSetup"/>
+          <include name="genereateJWTtokenforNonAmdinAppinEnvironmentSetup"/>
+          <include name="importBotinEnvironmentSetup"/>
+          <include name="uploadFileinEnvironmentSetup"/>
+          <include name="AddingDeveloperasOwnerinEnvironmentSetup"/>
+          <include name="createUserinEnvironmentSetup"/>
+          <include name="importBotStatusinEnvironmentSetup"/>
+          <include name="afterMethodinEnvironmentSetup"/>
+          <include name="createAdminAppinEnvironmentSetup"/>
+          <include name="configuringENVvarinEnvironmentSetup"/>
+          <include name="enableRTMinEnvironmentSetup"/>
+        </methods>
+      </class> <!-- test.java.platform.api.EnviromentSetup -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
